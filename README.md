@@ -8,3 +8,4 @@
 littlexi0/littlexi0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+![壁纸](https://github.com/littlexi0/littlexi0/assets/133506022/bafdbc7b-ae99-449f-87d1-adfa679bafc7)
