@@ -1,7 +1,7 @@
 - 👋 Hi, I’m littlexi
 - 👀 I’m interested in ACM/后端
 - 🌱 I’m currently learning Golang
-- 💞️ ACM 铜牌
+- 💞️ ACM 银牌
 - 📫 How to reach me ：哔哩哔哩：温蒂啦啦啦 邮箱：2781497944@qq.com
 
 <!---
